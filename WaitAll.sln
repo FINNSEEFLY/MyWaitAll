@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitAll", "WaitAll\WaitAll.csproj", "{BE904C0E-A1D7-49FC-A480-433AC43048AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE904C0E-A1D7-49FC-A480-433AC43048AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE904C0E-A1D7-49FC-A480-433AC43048AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE904C0E-A1D7-49FC-A480-433AC43048AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE904C0E-A1D7-49FC-A480-433AC43048AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
